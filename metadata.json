@@ -1,6 +1,6 @@
 {
   "name": "petems-pe_15373_hotfix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "petems",
   "summary": "Hotfix to address known issue with migrating RHEL/CentOS 6 nodes to Puppet 4",
   "license": "Apache-2.0",
