@@ -1,0 +1,52 @@
+{
+  "name": "petems-pe_15373_hotfix",
+  "version": "0.1.1",
+  "author": "petems",
+  "summary": "Hotfix to address known issue with migrating RHEL/CentOS 6 nodes to Puppet 4",
+  "license": "Apache-2.0",
+  "source": "https://github.com/petems/pe_15373_hotfix",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Scientific",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "tags": [
+    "hotfix",
+    "pe",
+    "PE-15373"
+  ]
+}
